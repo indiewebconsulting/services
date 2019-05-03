@@ -31,4 +31,4 @@ Below you will find some of the details that Jonathan and feature members can pr
 - Web Service integrations using Amazon API Gateway
 - Advice on how to patch your software, have without disrupting your customers.
 
-## ! More details coming soon. Thanks for stopping by! ##
+## !More details coming soon. Thanks for stopping by! ##
