@@ -124,6 +124,6 @@ The LostInSound studio was initially the property address of Bistorm, LLC, a reg
 
 Jen has described herself as the "Female Steve Jobs", and enjoys entertaining those in her chosen Media professions. If you have a small or locally owned business, and are struggling to communicate your brand online, she may have some helpful hints and directions to assist you.
 
-In addition to maintaining Web properties, indiewebconsulting.com can also provide you with options to establish your identity using your own logins and credentials, secured as you need, as long as meets industry standard measures for protection.
+In addition to maintaining Web properties, indiewebconsulting.com can also provide you with options to establish your identity using your own logins and credentials, secured as you need, as long as it meets industry standard measures for protection.
 
 Why not text the LostInSound studio at 206-554-9469 to schedule an appointment?
