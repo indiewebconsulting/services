@@ -7,7 +7,7 @@
 * YOUR FIRST 30 MINUTE CONSULTATION IS FREE.
 * MOMS RECEIVE A 10% DISCOUNT ON ALL SERVICES.
 * YOUR PERSONALLY IDENTIFIABLE INFORMATION IS NEVER PROVIDED TO ANOTHER ENTITY UNLESS A LEGAL AUTHORITY HAS REQUESTED IT.
-* Email [to schedule time with Jen](info@indiewebconsulting.com) or text 206-554-9469 to schedule an appointment.
+* Email [to schedule time with Jen](mailto:info@indiewebconsulting.com) or text 206-554-9469 to schedule an appointment.
 
 ## Digital Advertising
 
@@ -100,7 +100,7 @@ On your way to Seattle from out-of-state and need a faster upload than a cafe or
 
 If you just need a temporary storage space for the day or want to discuss how to raise up an Intranet of your own and be the star of your organization, don't hesitate! You may not even need an appointment.
 
-Email [Jen to schedule an appointment](info@indiewebconsulting.org) or text 206-554-9469 to reach the LostInSound property directly.
+Email [Jen to schedule an appointment](mailto:info@indiewebconsulting.org) or text 206-554-9469 to reach the LostInSound property directly.
 
 ## Mobile Phone Screen Replacements 
 
@@ -126,4 +126,4 @@ Jen has described herself as the "Female Steve Jobs", and enjoys entertaining th
 
 In addition to maintaining Web properties, indiewebconsulting.com can also provide you with options to establish your identity using your own logins and credentials, secured as you need, as long as it meets industry standard measures for protection.
 
-Why not text the LostInSound studio at 206-554-9469 to schedule an appointment or [e-mail Jen](info@indiewebconsulting.com) to schedule an appointment?
+Why not text the LostInSound studio at 206-554-9469 to schedule an appointment or [e-mail Jen](mailto:info@indiewebconsulting.com) to schedule an appointment?
