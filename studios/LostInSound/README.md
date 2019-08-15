@@ -7,7 +7,7 @@
 * YOUR FIRST 30 MINUTE CONSULTATION IS FREE.
 * MOMS RECEIVE A 10% DISCOUNT ON ALL SERVICES.
 * YOUR PERSONALLY IDENTIFIABLE INFORMATION IS NEVER PROVIDED TO ANOTHER ENTITY UNLESS A LEGAL AUTHORITY HAS REQUESTED IT.
-* Email [to schedule time with Jen](mailto:info@indiewebconsulting.com) or text 206-554-9469 to schedule an appointment.
+* Email [to schedule time with Jen](mailto:info@indiewebconsulting.com) or text 253-237-4414 to schedule an appointment.
 
 ## Digital Advertising
 
